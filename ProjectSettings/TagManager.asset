@@ -8,6 +8,8 @@ TagManager:
   - FriendlyProjectile
   - EnemyProjectile
   - Enemy
+  - Structure
+  - Fortress
   layers:
   - Default
   - TransparentFX
@@ -15,19 +17,19 @@ TagManager:
   - 
   - Water
   - UI
-  - 'Background '
-  - Fortress
-  - Structures
-  - Enemies
-  - Projectiles
-  - Clouds
-  - Character
   - 
   - 
   - 
   - 
   - 
   - 
+  - 
+  - FrontLine1
+  - FrontLine2
+  - FrontLine3
+  - FrontLine4
+  - FrontLine5
+  - FrontLine6
   - 
   - 
   - 

@@ -1,7 +1,13 @@
 fileFormatVersion: 2
-guid: 10dae13434a68af4fab5a5900f58cfdc
+guid: 1a3646cb1ff7e9546b6e1b3b59b1c5b5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3851476832853213124
+    second: Nuvola Piccola Outline_0
+  - first:
+      213: 2916221265441889154
+    second: Nuvola Piccola Outline_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -39,7 +45,7 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 0
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -95,7 +101,49 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Nuvola Piccola Outline_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 354
+        width: 829
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfbcd206c1337530800000000000000
+      internalID: 3851476832853213124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nuvola Piccola Outline_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b9a154acf787820800000000000000
+      internalID: 2916221265441889154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
