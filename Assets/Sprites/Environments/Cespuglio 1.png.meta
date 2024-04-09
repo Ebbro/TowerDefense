@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cespuglio 1_0: -435098138613917347
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

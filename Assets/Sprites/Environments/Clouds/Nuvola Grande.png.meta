@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Nuvola Grande_0: 6935022777988901763
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

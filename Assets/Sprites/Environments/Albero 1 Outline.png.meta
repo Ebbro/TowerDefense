@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Albero 1 Outline_0: -4861514120387349222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

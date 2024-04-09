@@ -154,7 +154,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Nuvola Piccola Outline_0: 3851476832853213124
+      Nuvola Piccola Outline_1: 2916221265441889154
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
