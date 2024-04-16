@@ -11,6 +11,7 @@ TagManager:
   - Structure
   - Fortress
   - StructureSpace
+  - ActiveStructureSpace
   layers:
   - Default
   - TransparentFX
