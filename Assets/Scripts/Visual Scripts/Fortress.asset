@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Fortress
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":193.7506,"y":369.6452},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-209.0,"y":-218.0},"guid":"a627382e-aff1-48da-9ce8-5e0bdf5b71f5","$version":"A","$type":"Unity.VisualScripting.Start","$id":"9"},{"kind":"Scene","defaultValues":{"name":{"$content":"CurrentFortressHealth","$type":"System.String"}},"position":{"x":105.0,"y":-204.0},"guid":"6dc00471-e71a-4e95-8379-2019c7a22a85","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"11"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"MaxFortressHealth","$type":"System.String"}},"position":{"x":-235.0,"y":-68.0},"guid":"30250e4e-223e-4cb2-ba7c-0c3f12e7bcc0","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"13"},{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"FortressDeath","$type":"System.String"}},"position":{"x":-232.0,"y":213.0},"guid":"f037cf14-3cbe-40ce-ac28-c100f51d1b2b","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"15"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"GameOverCanva","$type":"System.String"}},"position":{"x":-212.0,"y":383.0},"guid":"206957be-2572-48c1-bb8a-afebf3370aba","$version":"A","$type":"Unity.VisualScripting.GetVariable"},{"kind":"Scene","defaultValues":{"name":{"$content":"GameOverCanva","$type":"System.String"}},"position":{"x":111.0,"y":208.0},"guid":"a2e0d74d-a283-4089-b5dc-b2d2ad0137f0","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"19"},{"type":"System.Boolean","value":{"$content":true,"$type":"System.Boolean"},"defaultValues":{},"position":{"x":-114.0,"y":467.0},"guid":"ad7187f3-1ec3-407f-81cb-66070c997f9e","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"21"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"a11dc6c9-c351-4f9c-a1b4-8e09aade91ff","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"trigger","destinationUnit":{"$ref":"19"},"destinationKey":"assign","guid":"221a63ba-920f-49c5-8e10-15ff91212b41","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"input","guid":"d179bdc1-3ee1-4e39-9a4d-50fbf1778f6b","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"21"},"sourceKey":"output","destinationUnit":{"$ref":"19"},"destinationKey":"input","guid":"0b461cad-66d8-4e6e-93f8-6d06678702a0","$type":"Unity.VisualScripting.ValueConnection"},{"position":{"xMin":-281.7272,"yMin":121.8183,"xMax":612.8184,"yMax":623.1819},"label":"Game
+      Over","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"4c32ae3f-e396-4b0b-8f1c-482b6a7568b5","$version":"A","$type":"Unity.VisualScripting.GraphGroup"}],"$version":"A"}}'
+    _objectReferences: []

@@ -76,7 +76,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Background Variant
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 6564136163678984462, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
+      propertyPath: m_Layer
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 6564136163678984462, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1964925193292479076, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
     m_RemovedGameObjects:
     - {fileID: 3355357868549613944, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
     - {fileID: 7311687482267102669, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
@@ -85,6 +94,9 @@ PrefabInstance:
     - {fileID: 7659596573158023315, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
     - {fileID: 8963668726210439637, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
     - {fileID: 4886214287401724419, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
+    - {fileID: 5054115864653964634, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
+    - {fileID: 6748480937237630226, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
+    - {fileID: 8173712177699930825, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d8991829c1dd1e46aa6431f00ed2dee, type: 3}
