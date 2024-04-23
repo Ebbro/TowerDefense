@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Mouse_Scroll_Up_Key_Dark_Key_White_0: 2172629988889265516
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Semicolon_Key_White_0: -3889746288779934319
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

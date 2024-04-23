@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Mouse_Left_Key_White_0: 885924878281152548
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
